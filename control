@@ -1,0 +1,9 @@
+Package: com.level3tjg.mailpatch
+Name: MailPatch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Patch vulnerabilities in MFMutableData
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
